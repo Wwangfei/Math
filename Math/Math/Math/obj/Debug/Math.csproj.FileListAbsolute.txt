@@ -8,7 +8,6 @@ C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Xamarin.Forms.Core.xml
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.MainPage.xaml.g.cs
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.App.xaml.g.cs
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.dll

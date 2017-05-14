@@ -36,5 +36,9 @@ C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\obj\Debug\res\layout\toolbar
 C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\obj\Debug\res\values\styles.xml
 C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\obj\Debug\R.cs.flag
 C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\obj\Debug\uploadflags.txt
+C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\obj\Debug\Math.Android.dll.mdb
 C:\Work\Labs\MobileApps\Math\Math\Math\Math.Android\bin\Debug\Math.Android.dll.mdb
