@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Math"
              x:Class="Math.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Welcome to Math World!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
