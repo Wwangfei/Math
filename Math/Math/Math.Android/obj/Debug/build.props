@@ -16,4 +16,4 @@ XamarinAndroidVersion=7.2.0-7
 MonoSymbolArchive=False
 AndroidUseLatestPlatformSdk=true
 TargetFrameworkVersion=v7.1
-AndroidCreatePackagePerAbi=True
+AndroidCreatePackagePerAbi=False

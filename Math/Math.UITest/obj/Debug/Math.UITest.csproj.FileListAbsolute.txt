@@ -1,12 +1,8 @@
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Math.UITest.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Math.UITest.pdb
+C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Math.Android.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\nunit.framework.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.UITest.dll
-C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\nunit.framework.xml
-C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.UITest.xml
-C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.dll
-C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.pdb
-C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Math.Android.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Platform.Android.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Math.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Core.dll
@@ -19,6 +15,8 @@ C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Math.Android.pdb
+C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\nunit.framework.xml
+C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.UITest.xml
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Platform.Android.pdb
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Math.pdb
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Core.pdb
@@ -27,3 +25,5 @@ C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\FormsViewGroup.pdb
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.csprojResolveAssemblyReference.cache
+C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.dll
+C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.pdb
