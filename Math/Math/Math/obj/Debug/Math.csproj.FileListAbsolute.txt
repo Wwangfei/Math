@@ -18,5 +18,3 @@ C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.QuestionThree.xaml.g.
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.dll.mdb
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Math.dll.mdb
-C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.dll.mdb
-C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Math.dll.mdb
