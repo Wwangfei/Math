@@ -8,7 +8,7 @@ using Xamarin.UITest.Queries;
 namespace Math.UITest
 {
     [TestFixture(Platform.Android)]
-    [TestFixture(Platform.iOS)]
+    //[TestFixture(Platform.iOS)]
     public class Tests
     {
         IApp app;
@@ -29,7 +29,32 @@ namespace Math.UITest
         public void AppLaunches()
         {
             app.Screenshot("First screen.");
+            
+           // app.Repl();
+            app.WaitForElement(e => e.Marked("Try This"));
+            app.Tap("Try This");
+            app.WaitForElement(e => e.Marked("Question 1"));
         }
+
+        [Test]
+        public void QuestionOne()
+        {
+
+        }
+
+        [Test]
+        public void QuestionTwo()
+        {
+
+        }
+
+        [Test]
+        public void QuestionThree()
+        {
+
+        }
+
+
     }
 }
 

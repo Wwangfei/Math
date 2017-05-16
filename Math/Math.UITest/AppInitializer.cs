@@ -14,6 +14,7 @@ namespace Math.UITest
             {
                 return ConfigureApp
                     .Android
+                    .ApkFile("../../../Math/Math.Android/bin/Debug/Math.Android.apk")
                     .StartApp();
             }
 
