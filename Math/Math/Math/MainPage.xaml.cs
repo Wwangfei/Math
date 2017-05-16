@@ -13,5 +13,11 @@ namespace Math
         {
             InitializeComponent();
         }
+
+        public void TryButtonClicked(object sender, EventArgs e)
+        {
+            Navigation.InsertPageBefore(new QuestionOne(), this);
+            Navigation.PopAsync();
+        }
     }
 }

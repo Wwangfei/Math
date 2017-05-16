@@ -4,8 +4,17 @@
              xmlns:local="clr-namespace:Math"
              x:Class="Math.MainPage">
 
-	<Label Text="Welcome to Math World!" 
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <StackLayout>
+            <Label Text="Are you a math genius? "></Label>
+            <Image ></Image>
+            <Button x:Name="TryButton" Text="Try This" Clicked="TryButtonClicked"></Button>
+        </StackLayout>
+
+        <Label Text="Welcome to Math World!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
+    </StackLayout>
+	
 
 </ContentPage>

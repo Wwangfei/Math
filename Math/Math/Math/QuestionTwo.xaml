@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+     
+        x:Class="Math.QuestionTwo">
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="Check" Text="Check" Clicked="CheckClicked" HorizontalOptions="StartAndExpand" BackgroundColor="Goldenrod" HeightRequest="40"></Button>
+            <Button x:Name="Next" Text="Next" Clicked="NextClicked" HorizontalOptions="EndAndExpand" BackgroundColor="Green" HeightRequest="40"></Button>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Question 2" HorizontalOptions="CenterAndExpand"></Label>
+            <BoxView Color="Green" HeightRequest="1"></BoxView>
+            <Label Text="Please select the correct answer" HorizontalOptions="CenterAndExpand"></Label>
+            <Image HeightRequest="300" WidthRequest="300" HorizontalOptions="CenterAndExpand"></Image>
+            <BoxView Color="Green" HeightRequest="1"></BoxView>
+            <Entry x:Name="AnswerEntry" WidthRequest="300" Placeholder="Type your answer.A or B"  HorizontalOptions="CenterAndExpand"></Entry>
+            <Label x:Name="Message" Text="Correct!" HorizontalOptions="CenterAndExpand"></Label>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -64,5 +64,11 @@
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Math\Math.Android\Math.Android.csproj">
+      <Project>{87f97c23-a4d7-4594-82eb-f3a5396b14c6}</Project>
+      <Name>Math.Android</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

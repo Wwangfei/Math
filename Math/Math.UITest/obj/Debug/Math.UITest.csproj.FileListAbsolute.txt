@@ -4,6 +4,5 @@ C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\nunit.framework.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.UITest.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\nunit.framework.xml
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\bin\Debug\Xamarin.UITest.xml
-C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.csprojResolveAssemblyReference.cache
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.dll
 C:\Work\Labs\MobileApps\Math\Math\Math.UITest\obj\Debug\Math.UITest.pdb

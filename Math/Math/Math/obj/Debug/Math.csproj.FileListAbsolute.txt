@@ -12,5 +12,11 @@ C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.MainPage.xaml.g.cs
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.App.xaml.g.cs
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.dll
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.pdb
+C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.QuestionOne.xaml.g.cs
+C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.QuestionTwo.xaml.g.cs
+C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.QuestionThree.xaml.g.cs
+C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.dll.mdb
+C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Math.dll.mdb
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\obj\Debug\Math.dll.mdb
 C:\Work\Labs\MobileApps\Math\Math\Math\Math\bin\Debug\Math.dll.mdb

@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
+[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace Math
 {
     public partial class App : Application
@@ -12,8 +14,8 @@ namespace Math
         public App()
         {
             InitializeComponent();
-
-            MainPage = new Math.MainPage();
+            var main = new Math.MainPage();
+            MainPage = new NavigationPage(main); 
         }
 
         protected override void OnStart()
